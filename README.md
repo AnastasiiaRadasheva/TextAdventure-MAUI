@@ -1,4 +1,14 @@
-# PopUp – Text Adventure in .NET MAUI
+<div align="center">
+
+# 🧟 Text Adventure
+
+**Choose your path, survive the story**
+
+<img src="https://img.shields.io/badge/C%23-0d1b2a?style=for-the-badge&logo=dotnet&logoColor=7aa2f7" /> <img src="https://img.shields.io/badge/.NET_MAUI-0d1b2a?style=for-the-badge&logo=dotnet&logoColor=7aa2f7" /> <img src="https://img.shields.io/badge/3_languages-0d1b2a?style=for-the-badge&logo=googletranslate&logoColor=7aa2f7" />
+
+</div>
+
+---
 
 An interactive story game made only with pop-up dialogs. The player enters a name, picks a story
 (for example a zombie apocalypse or an abandoned school), and makes choices that lead to different endings.
