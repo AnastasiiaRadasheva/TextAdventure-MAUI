@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧟 Text Adventure
+# Text Adventure
 
 **Choose your path, survive the story**
 
